@@ -10,10 +10,10 @@ const Landing: React.FC =  () => {
             <h1 className="text-xl font-extralight">
                 <Card />
             </h1>
-            <div className="flex flex-col gap-4 mt-6">
-                <Button title="Small Rounded"  styles="rounded-sm text-sm"/>
-                <Button title="Medium Rounded"  styles="rounded-md text-base"/>
-                <Button title="Large Fully Rounded"  styles="rounded-full text-lg"/>
+            <div className="flex flex-col gap-4 mt-4">
+                <Button title="Small - shapes"  styles="rounded-sm text-sm"/>
+                <Button title="medium - shapes"  styles="rounded-md text-base"/>
+                <Button title="Large - shapes"  styles="rounded-full text-lg"/>
 
             </div>
         </div>
