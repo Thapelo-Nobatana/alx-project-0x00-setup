@@ -2,7 +2,7 @@
 const HomePageUsers: React.FC = () => {
     return (
         <div>
-            Home Page for Users
+            Home Page for   Users
         </div>
     )
 }
